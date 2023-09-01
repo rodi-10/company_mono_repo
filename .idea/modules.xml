@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/shared_widgets/AppButton/melos_app_button.iml" filepath="$PROJECT_DIR$/shared_widgets/AppButton/melos_app_button.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared_widgets/app_button/melos_app_button.iml" filepath="$PROJECT_DIR$/shared_widgets/app_button/melos_app_button.iml" />
       <module fileurl="file://$PROJECT_DIR$/packages/echo/melos_call_function.iml" filepath="$PROJECT_DIR$/packages/echo/melos_call_function.iml" />
       <module fileurl="file://$PROJECT_DIR$/apps/package_tester/melos_package_tester.iml" filepath="$PROJECT_DIR$/apps/package_tester/melos_package_tester.iml" />
       <module fileurl="file://$PROJECT_DIR$/melos_company_project.iml" filepath="$PROJECT_DIR$/melos_company_project.iml" />

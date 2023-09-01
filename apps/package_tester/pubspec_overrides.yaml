@@ -1,6 +1,6 @@
 # melos_managed_dependency_overrides: app_button,call_function
 dependency_overrides:
   app_button:
-    path: ../../shared_widgets/AppButton
+    path: ../../shared_widgets/app_button
   call_function:
     path: ../../packages/echo
